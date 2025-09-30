@@ -10,7 +10,9 @@ This repository contains scripts for basic analyses and utilities of daily life.
 
 2. **wordcloud_cli.py**: Python script to make beutiful worlclouds from a given input text-list and an image.
    - Usage: `python3 wordcloud_cli.py -h`
-   
+
+3. **pdf_to_images.py**: Python script to convert a PDF file to different user-defined image formats.
+   - Usage: `python3 pdf_to_images.py -h`
 
 ## Requirements
 - **Appropriate Python Packages**
